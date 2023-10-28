@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PerdidoenCoding
 - 👀 I’m interested in becoming a software engineer/full stack developer
 - 🌱 I’m currently learning javascript and python
-- 💞️ I’m looking to collaborate on github 
+- 💞️ I’m looking to collaborate and find a job as a programmer on github 
 - 📫 Reach me out on my email willianlinchang@gmail.com
 
 <!---
